@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h.
+void main()
+{
+int i,a;
+for(i=0;i<16;i++)
+{
+if(a%3==0)
+{
+printf("fizz\n");
+}
+else if(a%5==0)
+{
+printf("buzz\n");
+}
+if(a%3==0||a%5==0)
+{
+printf("fizzbuzz\n");
+}
+else
+
+}
